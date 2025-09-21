@@ -26,14 +26,6 @@ You can find my CV here: [Wen Zhang’s Curriculum Vitae](../assets/CV-Wen.pdf).
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
-# 🔥 News
-- *2025.07*: &nbsp;New Paper on Fine-Tuning Vision-Language Models for Visual Navigation Assistance Accepted by International Conference on Machine Learning (ICML) Workshop on NewInML 2025.
-- *2024.02*: &nbsp;New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
-- *2023.12*: &nbsp;New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
-- *2023.10*: &nbsp;🎉🎉New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
-- *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
-- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
-
 # 📝 Publications 
 - 🎓During My Master's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
