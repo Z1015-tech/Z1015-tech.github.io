@@ -29,19 +29,19 @@ You can find my CV here: [Wen Zhang’s Curriculum Vitae](../assets/CV-Wen.pdf).
 # 📝 Publications 
 - [The impact of wealth management products on banks’ green finance: evidence from China](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2551349)
   - Hong Zhao, Yi Wang, **Wen Zhang**, Amina Kamar
-  - [**Project**](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2551349) | <strong>SCI Journal Paper</strong>
+  - [**Project**](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2551349)  SCI Journal Paper
   - Asia-Pacific Journal of Accounting & Economics, 1–26, 2025
   - DOI 10.1080/16081625.2025.2551349
 
 - [Open government data and management earnings forecast quality: evidence from China](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2479521)
   - Baolei QiORCID, Yan Wang, Zeyu SunORCID, **Wen Zhang**
-  - [**Project**](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2479521) | <strong>SCI Journal Paper</strong>
+  - [**Project**](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2479521)  SCI Journal Paper
   - Asia-Pacific Journal of Accounting & Economics, 1–23, 2025
   - DOI 10.1080/16081625.2025.2479521
 
 - [Aging Population,Changes in Factor Costs,and Corporate Product Market Performance](https://link.cnki.net/doi/10.13781/j.cnki.1007-9556.2024.12.010)
   - DU Ying, **Wen Zhang**, QI Bao-lei
-  - [**Project**](https://link.cnki.net/doi/10.13781/j.cnki.1007-9556.2024.12.010) | <strong>SCI Journal Paper</strong>
+  - [**Project**](https://link.cnki.net/doi/10.13781/j.cnki.1007-9556.2024.12.010)  SCI Journal Paper
   - Journal of Shanxi University of Finance and Economics, 2024 (12)
   - DOI 10.13781/j.cnki.1007-9556.2024.12.010
 
