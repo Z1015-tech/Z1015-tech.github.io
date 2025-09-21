@@ -1,4 +1,4 @@
----
+<img width="1597" height="540" alt="image" src="https://github.com/user-attachments/assets/3a82ddd8-2c93-4554-9b59-6518f6b05b93" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -18,15 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am currently a second-year doctoral student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), supervised by Prof. Qi Baolei in the Department of Accounting and Finance.
+I am now the second-year PHD student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), supervised by Prof. Qi Baolei in the Department of Accounting and Finance.
 
-My current doctoral research is deeply engaged in the study of data assets, with a primary focus on corporate finance and governance, capital market auditing and information disclosure, as well as the valuation, management, and utilization of data assets themselves.
+My current  research is deeply engaged in the study of data assets, with a primary focus on corporate finance and governance, capital market auditing and information disclosure, as well as the valuation, management, and utilization of data assets themselves.
 
 You can find my CV here: [Wen Zhang’s Curriculum Vitae](../assets/CV-Wen.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:wenwenzhang2020@163.com).
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 📝 Publications 
+🎓During My PHD’s Research Program
 - [The impact of wealth management products on banks’ green finance: evidence from China](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2551349)
   - Hong Zhao, Yi Wang, **Wen Zhang**, Amina Kamar
   - [**Project**](https://www.tandfonline.com/doi/full/10.1080/16081625.2025.2551349)  SCI Journal Paper
@@ -46,9 +47,10 @@ You can find my CV here: [Wen Zhang’s Curriculum Vitae](../assets/CV-Wen.pdf).
   - DOI 10.13781/j.cnki.1007-9556.2024.12.010
 
 # 🔬 Research Experience
-- **Green Finance and Banking Conduct** The Impact of New Regulations on Bank Wealth Management/Asset Management and ESG Constraints on Green Lending and Green Investment, RiskTaking and Incentive Mechanisms.
-- **Information Environment and Capital Markets** How Government Open Data, Information Disclosure and Auditing Affect the Quality of Management Earnings Forecasts, Market Pricing Efficiency and Corporate Governance.
-- **Methodological expertise** Application of econometrics and causality identification (DiD, IV, RDD, PSM), multi-level panel data matching, supplemented by text mining/machine learning.
+- **Green Finance and Banking Conduct**: The Impact of New Regulations on Bank Wealth Management/Asset Management and ESG Constraints on Green Lending and Green Investment, RiskTaking and Incentive Mechanisms.
+- **Information Environment and Capital Markets**:How Government Open Data, Information Disclosure and Auditing Affect the Quality of Management Earnings Forecasts, Market Pricing Efficiency and Corporate Governance.
+- **Methodological expertise**: Application of econometrics and causality identification ([Uploading image.png…]()
+DiD, IV, RDD, PSM), multi-level panel data matching, supplemented by text mining/machine learning.
 
 # 🎖 Honors and Awards
 - *2017 Patents* Outstanding Graduate, Nanjing University of Posts and Telecommunications (Bell Academy)
