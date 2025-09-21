@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wen Zhang"
-description              : "First-year PhD student at University of Florida"
+description              : "First-year PhD student at of  Xi'an Jiaotong University"
 repository               : "Z1015-tech/Z1015-tech.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wen Zhang"
   avatar           : "images/profile.png"
-  bio              : "University of Florida"
-  location         : "FL, USA"
+  bio              : "Xi'an Jiaotong University"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : 
   email            : "wenwenzhang2020@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
