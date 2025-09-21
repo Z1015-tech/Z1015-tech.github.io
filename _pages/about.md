@@ -18,21 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now the first-year PhD student at [University of Florida](https://www.ufl.edu/), [ECE](https://www.ece.ufl.edu/). I am under the supervision of [Prof. Mingyue Ji](https://my.eng.utah.edu/~u6007330/) of EdgeAI Lab from Department of Electrical and Computer Engineering, University of Florida.
+I am currently a second-year doctoral student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), supervised by Prof. Qi Baolei in the Department of Accounting and Finance.
 
-<!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
+My current doctoral research is deeply engaged in the study of data assets, with a primary focus on corporate finance and governance, capital market auditing and information disclosure, as well as the valuation, management, and utilization of data assets themselves.
 
-From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
-
-In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
-
-My research interest includes Machine Learning and non-convex optimization. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
-
-You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/CV_Ming.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
-
-<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+You can find my CV here: [Wen Zhang’s Curriculum Vitae](../assets/CV-Wen.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:wenwenzhang2020@163.com).
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
