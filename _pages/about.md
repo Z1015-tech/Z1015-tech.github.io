@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now the second-year PHD student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), supervised by Prof. Qi Baolei in the Department of Accounting and Finance.
+I am now the second-year PhD student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), supervised by Prof. Qi Baolei in the Department of Accounting and Finance.
 
-My current  research is deeply engaged in the study of data assets, with a primary focus on corporate finance and governance, capital market auditing and information disclosure, as well as the valuation, management, and utilization of data assets themselves.
+My current research is deeply engaged in the study of data assets, with a primary focus on corporate finance and governance, capital market auditing and information disclosure, as well as the valuation, management, and utilization of data assets themselves.
 
 You can find my CV here: [Wen Zhang’s Curriculum Vitae](../assets/CV-Wen.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:wenwenzhang2020@163.com).
 
